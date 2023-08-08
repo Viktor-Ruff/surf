@@ -5,11 +5,11 @@
 Первый экрна создан на основе фрагментов, навигация SupportFragmentManager.
 Вариация когда список коктелей пуст выполнена полностью, по нажатию на FAB осуществляется переход на фрагмент добавления нового коктеля.
 
-https://github.com/Viktor-Ruff/Images/blob/main/Start.jpg
+![Image alt](https://github.com/Viktor-Ruff/Images/blob/main/Start.jpg)
 
 В варианте когда список не пустой выполнен ресайклер, адптер, кнопка FAB. Добавление пользователем коктелей не успел реализовать, сохранение коктелей соответсвенно тоже.
 
-https://github.com/Viktor-Ruff/Images/blob/main/ListCocktails.jpg
+![Image alt](https://github.com/Viktor-Ruff/Images/blob/main/ListCocktails.jpg)
  
 ## Второй экран - “Создание коктейля”
 
@@ -29,8 +29,8 @@ https://github.com/Viktor-Ruff/Images/blob/main/ListCocktails.jpg
 -Окрашивание в красный цвет обязательных полей в случае их незаполнения пользователем.
 -Сохранение коктеля в список и в память устройства.
 
-https://github.com/Viktor-Ruff/Images/blob/main/New%20cocktail.jpg
-https://github.com/Viktor-Ruff/Images/blob/main/Dialog.jpg
+![Image alt](https://github.com/Viktor-Ruff/Images/blob/main/New%20cocktail.jpg)
+![Image alt](https://github.com/Viktor-Ruff/Images/blob/main/Dialog.jpg)
 
 
 ## Третий экран - “Деталка коктейля”
@@ -39,7 +39,8 @@ https://github.com/Viktor-Ruff/Images/blob/main/Dialog.jpg
 
 # Выводы по тестовому заданию.
 
-Задание очень интересное, мне оно точно под силам,  ничего очень сложноно и невыполнимого для меня в нем не было. Просто нехватило времени, объем большой, для человека у которого не набита рука создавать макеты по фигме. Основное время ушло именно на дизайн. Спасибо за опыт!
+Задание очень интересное, мне оно точно под силам,  ничего очень сложноно и невыполнимого для меня в нем не было. Просто нехватило времени, объем большой, для человека у которого не набита рука создавать макеты по фигме. Основное время ушло именно на дизайн. Спасибо за опыт! 
+Жду результатов летней школы с нетерпением :)
 
 
 
